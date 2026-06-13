@@ -40,20 +40,15 @@ It will output something like :
 ```
 
 ## API Reference
-- to_poly2(params)
-    - Return a degree 2 polynomial function.
-- to_poly3(params)
-    - Return a degree 3 polynomial function.
-- to_polyn(n, params)
-    - Return a degree n polynomial function.
-- to_log(params)
-    - Return a log function.
-- to_exp(params)
-    - Return a exponential function.
-- to_linear(params)
-    - Return a linear function.
-- to_latex(params)
-    - Return a latex version of the function.
+```py
+to_poly2(params) # Return a degree 2 polynomial function.
+to_poly3(params) # Return a degree 3 polynomial function.
+to_polyn(n, params) # Return a degree n polynomial function.
+to_log(params) # Return a log function.
+to_exp(params) # Return a exponential function.
+to_linear(params) # Return a linear function.
+to_latex(params) # Return a latex version of the function.
+```
 
 ## License
 MIT License
