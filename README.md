@@ -1,4 +1,4 @@
-# tofunc
+# tofunc (0.1.6)
 
 A small, extensible Python package for translating coefs made by scipy and numpy (and other) into readable functions (latex support!)
 
